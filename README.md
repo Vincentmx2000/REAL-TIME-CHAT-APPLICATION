@@ -29,3 +29,8 @@ The technologies used to build this application include React.js for the fronten
 In summary, this Real-Time Chat Application serves as a strong example of how modern web technologies can be combined to build a real-time, multi-user communication tool. It demonstrates key web development concepts such as state management, client-server communication, and UI responsiveness, making it an excellent learning project and portfolio piece for developers exploring full-stack or real-time application development.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/f45fae45-6b1a-4cb7-9105-cddeb2cb8e17)
+![Image](https://github.com/user-attachments/assets/d729c120-f7e4-4c47-8b0d-26ba03b80a15)
+![Image](https://github.com/user-attachments/assets/be509c39-39f1-4684-9d8b-cc1a56ad8e83)
+![Image](https://github.com/user-attachments/assets/9ca18cd6-f9fc-4cb1-92e5-afc646b22db9)
